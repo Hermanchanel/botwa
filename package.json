@@ -1,0 +1,53 @@
+{
+  "name": "Herman-Bot",
+  "version": "1.0.0",
+  "description": "Gak Ada",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "nino",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.2",
+    "@vitalets/google-translate-api": "^7.0.0",
+    "awesome-phonenumber": "^2.54.0",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "cheerio": "^1.0.0-rc.9",
+    "cron": "^1.8.2",
+    "figlet": "^1.5.0",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "g-i-s": "^2.1.6",
+    "google-it": "^1.6.2",
+    "imgbb-uploader": "^1.3.3",
+    "jsdom": "^16.6.0",
+    "lolis.life": "^4.0.0",
+    "mathjs": "^9.4.2",
+    "moment-timezone": "^0.5.33",
+    "ms": "^2.1.3",
+    "nekos.life": "^2.0.7",
+    "nhentai-js": "^4.0.0",
+    "nhentai-node-api": "^1.1.2",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "parse-ms": "^2.1.0",
+    "pet-pet-gif": "^1.0.9",
+    "qrcode": "^1.4.4",
+    "wa-sticker-formatter": "git+https://github.com/rashidsiregar28/wa-sticker-formatter.git",
+    "yt-search": "^2.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nino-chan02/NinoWangy"
+  },
+  "bugs": {
+    "url": "https://github.com/Nino-chan02/NinoWangy/issues"
+  },
+  "homepage": "https://github.com/Nino-chan02/NinoWangy#readme"
+}
